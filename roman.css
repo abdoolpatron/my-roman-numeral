@@ -1,0 +1,26 @@
+* {
+    background-color: azure;
+}
+
+#section {
+    text-align: center;
+    margin-top: 10%;
+    color: black;
+}
+
+#textbox {
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 2em;
+}
+
+#textbox::placeholder {
+    font-family: cursive;
+    font-size: 12px;
+}
+
+#numeral {
+    color: #000000;
+    font-size: 30px;
+}
